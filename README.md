@@ -15,9 +15,10 @@
 - CSS
 - DSA
 
-## 📌 Projects
+##  🚀 Currently Building
 
-### PlaceMentor AI
+🔗 **PlaceMentor AI**
+
 A placement preparation platform designed to help students prepare for internships and placements.
 
 ## 🔗 Connect with me
